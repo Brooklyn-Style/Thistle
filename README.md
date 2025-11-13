@@ -20,6 +20,7 @@ You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t+
   - [Left Half](#left-half)
   - [Right Half](#right-half)
   - [Magic](#magic)
+    - [Magic Rules](#rules) 
 - [Tools Used](#tools-used)
 ---
 <details>
