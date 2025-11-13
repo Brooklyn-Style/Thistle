@@ -92,46 +92,47 @@ For example, `CD` outputs `CR`. In the word "crane", four of its five letters ar
 
 <details>
  <summary><h3>Thistle went through a number of revisions which you can see here</h3></summary>
+The right side highlights the changes 
 
 ```
-  j o u r ~  k d l f b    ~ ~ ~ ~ ~  ~ ~ ~ b f
-? i a e n ~  w h t c s q  ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~
-  ' . , x z  y m p g v    ~ ~ ~ ~ ~  ~ ~ ~ ~ ~
+  j o u r ~  k d l f b
+? i a e n ~  w h t c s q
+  ' . , x z  y m p g v
 ```
 ```
-  j o u r z  k d l b f    ~ ~ ~ ~ ~  v w ~ d b
-? i a e n x  w h t c s q  ~ ~ ~ ~ ~  y ~ ~ ~ ~ ~ 
-  ' . , @ ~  y m p g v    ~ ~ ~ ~ ~  k ~ ~ f g
+  j o u r z  k d l b f       ~ ~ ~ ~ z  ~ ~ ~ b f
+? i a e n x  w h t c s q   ~ ~ ~ ~ ~ x  ~ ~ ~ ~ ~ ~
+  ' . , @ ~  y m p g v       ~ ~ ~ @ ~  ~ ~ ~ ~ ~
 ```
 ```
-j o u r '  v w l d b    ~ ~ ~ ~ ~  k ~ c f ~
-i a e n x  y h t c s q  ~ ~ ~ ~ ~  ~ ~ ~ l ~ ~ 
-? . , @ z  k m p f g    ~ ~ ~ ~ ~  v ~ d p ~
+j o u r '  v w l d b     ~ ~ ~ ~ '  v w ~ d b
+i a e n x  y h t c s q   ~ ~ ~ ~ x  y ~ ~ ~ ~ ~
+? . , @ z  k m p f g     ? ~ ~ ~ z  k ~ ~ f g
 ```
 ```
-j o u r '  k w c f b    ~ ~ ~ ~ ~  v d ~ p w
-i a e n x  y h t l s q  ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~
-? . , @ z  v m d p g    ~ ~ ~ ~ ~  k ~ g f b
+j o u r '  k w c f b     ~ ~ ~ ~ ~  k ~ c f ~
+i a e n x  y h t l s q   ~ ~ ~ ~ ~  ~ ~ ~ l ~ ~ 
+? . , @ z  v m d p g     ~ ~ ~ ~ ~  v ~ d p ~
 ```
 ```
-j o u r '  v d c p w    ~ ~ ~ ~ ~  ~ ~ ~ ~ b
-i a e n x  y h t l s q  ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
-? . , @ z  k m g f b    ~ ~ ~ ~ ~  ~ ~ w ~ g
+j o u r '  v d c p w     ~ ~ ~ ~ ~  v d ~ p w
+i a e n x  y h t l s q   ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
+? . , @ z  k m g f b     ~ ~ ~ ~ ~  k ~ g f b
 ```
 ```
-  j o u r '  v d c p b    ~ ~ ~ ~ ~  ~ ~ ~ ~ g
-? i a e n x  y h t l s q  ~ ~ ~ ~ ~  ~ ~ ~ s l ~ 
-  , . ~ @ z  k m w f g    ~ ~ ~ ~ ~  ~ ~ ~ ~ b
+  j o u r '  v d c p b       ~ ~ ~ ~ ~  ~ ~ ~ ~ b
+? i a e n x  y h t l s q   ~ ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
+  , . ~ @ z  k m w f g       ~ ~ ~ ~ ~  ~ ~ w ~ g
 ```
 ```
-  , o u @ '  v d c p g    ~ ~ ~ ~ ~  ~ ~ ~ g p
-? i a e n x  y h t s l q  ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
-  j . ~ r z  k m w f b    ~ ~ ~ ~ ~  ~ ~ ~ ~ ~
+  , o u @ '  v d c p g       ~ ~ ~ ~ ~  ~ ~ ~ ~ g
+? i a e n x  y h t s l q   ~ ~ ~ ~ ~ ~  ~ ~ ~ s l ~ 
+  j . ~ r z  k m w f b       ~ ~ ~ ~ ~  ~ ~ ~ ~ b
 ```
 ```
-  j o u r '  v d c g p
-? i a e n x  y h t s l q
-  Я . , @ z  k m w f b
+  j o u r '  v d c g p       ~ ~ ~ ~ ~  ~ ~ ~ g p
+? i a e n x  y h t s l q   ~ ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
+  Я . , @ z  k m w f b       ~ ~ ~ ~ ~  ~ ~ ~ ~ ~
 ```
 </details>
 
