@@ -121,18 +121,18 @@ i a e n x  y h t l s q   ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~
 ```
 ```
   j o u r '  v d c p b       ~ ~ ~ ~ ~  ~ ~ ~ ~ b
-? i a e n x  y h t l s q   ~ ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
-  , . ~ @ z  k m w f g       ~ ~ ~ ~ ~  ~ ~ w ~ g
+? i a e n x  y h t l s q   ? ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
+  , . ~ @ z  k m w f g       , . ~ ~ ~  ~ ~ w ~ g
 ```
 ```
-  , o u @ '  v d c p g       ~ ~ ~ ~ ~  ~ ~ ~ ~ g
+  , o u @ '  v d c p g       , ~ ~ @ ~  ~ ~ ~ ~ g
 ? i a e n x  y h t s l q   ~ ~ ~ ~ ~ ~  ~ ~ ~ s l ~ 
-  j . ~ r z  k m w f b       ~ ~ ~ ~ ~  ~ ~ ~ ~ b
+  j . ~ r z  k m w f b       j ~ ~ r ~  ~ ~ ~ ~ b
 ```
 ```
-  j o u r '  v d c g p       ~ ~ ~ ~ ~  ~ ~ ~ g p
+  j o u r '  v d c g p       j ~ ~ r ~  ~ ~ ~ g p
 ? i a e n x  y h t s l q   ~ ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~ 
-  Я . , @ z  k m w f b       ~ ~ ~ ~ ~  ~ ~ ~ ~ ~
+  Я . , @ z  k m w f b       Я ~ , @ ~  ~ ~ ~ ~ ~
 ```
 </details>
 
