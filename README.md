@@ -1,6 +1,6 @@
 # Thistle
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.jpg" width="50%">
 
-[image]
 ```
   j o u r '  v d c g p
 ? i a e n x  y h t s l q
@@ -25,16 +25,19 @@ You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t+
 ---
 <details>
   <summary><h2>Stats</h2></summary>
-Without repeat or magic unless specified.
+Without repeat or magic
 
 [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):
-![without repeat](images/without%20repeat.jpg)
 
-[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):
-![cyanophage](images/cyanophage.jpg)
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/playground.jpg" width="70%">
+
+[Cyanophage](https://cyanophage.github.io/playground.html?layout=jour%27vdcgp-iaenxyhtslq%24.%2C%3Bzkmwfb%5C%5E%2F&mode=ergo&lan=english&thumb=l "View on Cyanophage"):
+
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/cyanophage.jpg" width="80%">
 
 [KeySolve](https://luminespire.github.io/keysolve-web/ "Keysolve"):
-![keysolve](images/keysolve.jpg)
+
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/keysolve.jpg" width="100%">
 
 </details>
 
@@ -88,7 +91,7 @@ For example, `CD` outputs `CR`. In the word "crane", four of its five letters ar
 |  F B      |   H   |   R    |
 
 <details>
- <summary><h3>Thistle went through a number of revisions which you can see here:</h3></summary>
+ <summary><h3>Thistle went through a number of revisions which you can see here</h3></summary>
 
 ```
   j o u r ~  k d l f b    ~ ~ ~ ~ ~  ~ ~ ~ b f
