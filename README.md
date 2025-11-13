@@ -11,7 +11,7 @@
 ```
 Thistle is a high inroll layout that uses repeat, magic, and two R keys to achieve low SFBs, scissors, and outrolls.
 
-You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+o+u+r+%27++v+d+c+g+p&l1r1=i+a+e+n+x++y+h+t+s+l+q&l1r2=r+.+%2C+%3B+z++k+m+w+f+b&z=z). Choose your layout (or input your own), click "convert words", then "type words".
+You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+o+u+r+%27++v+d+c+g+p&l1r1=i+a+e+n+x++y+h+t+s+l+q&l1r2=r+.+%2C+%3B+z++k+m+w+f+b&z=z). Select your layout (or input your own), then scroll down and click "convert words", then "type words".
 
 ## Table of Contents
 - [Glossary](glossary.md)
@@ -72,7 +72,7 @@ At the end of a word:
 |   K   |   Y    |
 |. ? !  |   "    |
 
-It acts as `backspace` in all other situations.
+It acts as backspace in all other situations.
 
 Conflicts have also been accounted for so words like "tea" and "after" can both be typed with "e@" at the end.
 
