@@ -148,118 +148,31 @@ The alphas do more of the same but also help to increase same row rolls and decr
   <summary><h2>Rules</h2></summary>
   
 ```
-jn -> ji
-thj -> thr
-
-i@ -> i'
-i\ -> ij/i?
-ih -> ir
-
-Я@ -> ri
-Яex reo
-Яe\ ree
-Я,@ rei
-Я,@\ rein
-Я,\ reu
-
-o\ -> oa
-o' -> o.
-oh -> or
-
-a\ -> ae/ao/ay
-a' -> a.
-ae -> ai
-a@/ah -> ar
-
-u\ -> ue
-u' -> u,
-uh -> ur
-
-e\ -> er/eu
-ex -> eo
-e' -> e,
-e@ -> ea
-eh -> er
-
-₡, ₡e
-₡,@ ₡ee
-₡,\ ₡ei
-₡y/k -> ₡[repeat]
-
-r\ -> rn/rx
-
-neЯ nee
-n\ -> nr/nz
-nh -> nx/nz
-nl -> n'
-
-vj -> vl
-vn/v@-> vy
-
-y/ yh/ym
-
-kn/k@ -> ky
-
-dn/d@ -> dy
-d/ -> dm/dk
-dc -> dw/dh
-
-h/ -> hv/hd/hh/hm
-h@ -> hy
-
-mn/m@ -> my
-m/ mv/mh
-mk mm
-
-c@ -> cy
-cv cq
-cd -> cr/ct
-cm -> cl/ck
-c/ cw
-
-t* -> tw
-tm -> tr/tc
-tmn tch
-t/ tc
-
-wm -> wh/wt
-w/ wc
-
-gd -> gr
-gh gf
-gm -> gl
-gc gs
-gcd gst
-
-s* -> sw
-s@ -> sy
-s@\ -> syn
-s@h -> syr
-sv -> sq
-sy sg
-sd -> sp
-s/ sf
-
-fn fs
-fh -> fr
-fm -> fl
-fw -> ft
-f/ fg
-
-p@ -> py
-pd -> pr
-pm -> pl
-p/ pb
-
-bh -> br
-bm -> bl
-b/ bp
-
-lh -> lp
-ly -> lb
-
-qh -> qu
-qi@ qui
+-------------------------------------------------------------------------------------------------------
+| jn → ji     | o\ → oa | u\ → ue | r\ → rn   | vj → vl | dn → dy | c@ → cy   | gd → gr   | p@ → py   |
+| thj → thr   | o' → o. | u' → u, | r\ → rx   | vn/→ vy | d@ → dy | cv → cq   | gh → gf   | pd → pr   |
+|             | oh → or | uh → ur |           | v@ → vy | d/ → dm | cd → cr   | gm → gl   | pm → pl   |
+|             |         |         |           |         | d/ → dk | cd → ct   | gc → gs   | p/ pb     |
+|             |         |         |           |         | dc → dh | cm → cl   | gcd → gst |           |
+|             |         |         |           |         | dc → dw | cm → ck   |           |           |
+|             |         |         |           |         |         | c/ → cw   |           |           |
+|-----------------------------------------------------------------------------------------------------|
+| i@ → i'     | a\ → ae | e\ → er | neЯ → nee | y/ → yh | h@ → hy | tЯ → tw   | sЯ → sw   |           |
+| i\ → ij     | a\ → ao | e\ → eu | n\ → nr   | y/ → ym | h/ → hv | tm → tr   | s@ → sy   | lh → lp   |
+| i\ → i?     | a\ → ay | ex → eo | n\ → nz   |         | h/ → hd | tm → tc   | s@\ → syn | ly → lb   |
+| ih → ir     | a' → a. | e' → e, | nh → nx   |         | h/ → hh | tmn → tch | s@h → syr |           |
+|             | ae → ai | e@ → ea | nh → nz   |         | h/ → hm | t/ → tc   | sv → sq   |           |
+|             | a@ → ar | eh → er | nl → n'   |         |         |           | sy → sg   | qh → qu   |
+|             | ah → ar |         |           |         |         |           | sd → sp   | qi@ → qui |
+|             |         |         |           |         |         |           | s/ → sf   |           |
+|-----------------------------------------------------------------------------------------------------|
+| Я@ → ri     |     ₡, → ₡e       |           | kn → ky | mn → my | wm → wh   | fh → fr   | bh → br   |
+| Яex → reo   |     ₡,@ → ₡ee     |           | k@ → ky | m@ → my | wm → wt   | fm → fl   | bm → bl   |
+| Яe\ → ree   |     ₡,\ → ₡ei     |           |         | m/ → mv | w/ → wc   | fw → ft   | b/ bp     |
+| Я,@ → rei   |     ₡y → ₡@       |           |         | m/ → mh |           | f/ → fg   |           |
+| Я,@\ → rein |     ₡k → ₡@       |           |         | mk → mm |           |           |           |
+| Я,\ → reu   |                   |           |         |         |           |           |           |
+-------------------------------------------------------------------------------------------------------
 ```
 </details>
 
