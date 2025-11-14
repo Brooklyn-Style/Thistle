@@ -92,7 +92,7 @@ For example, `CD` outputs `CR`. In the word "crane", four of its five letters ar
 
 <details>
  <summary><h3>Thistle went through a number of revisions which you can see here:</h3></summary>
-The right side highlights the changes 
+The changes are highlighted on the right
 
 ```
   j o u r ~  k d l f b
