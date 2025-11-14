@@ -91,7 +91,7 @@ For example, `CD` outputs `CR`. In the word "crane", four of its five letters ar
 |  F B      |   H   |   R    |
 
 <details>
- <summary><h3>Thistle went through a number of revisions which you can see here</h3></summary>
+ <summary><h3>Thistle went through a number of revisions which you can see here:</h3></summary>
 The right side highlights the changes 
 
 ```
@@ -171,7 +171,7 @@ The alphas do more of the same but also help to increase same row rolls and decr
 | Яe\ → ree   |     ₡,\ → ₡ei     |           |         | m/ → mv | w/ → wc   | fw → ft   | b/ bp     |
 | Я,@ → rei   |     ₡y → ₡@       |           |         | m/ → mh |           | f/ → fg   |           |
 | Я,@\ → rein |     ₡k → ₡@       |           |         | mk → mm |           |           |           |
-| Я,\ → reu   |                   |           |         |         |           |           |           |
+| Я,\ → reu   | ₡ = any consonant |           |         |         |           |           |           |
 -------------------------------------------------------------------------------------------------------
 ```
 </details>
