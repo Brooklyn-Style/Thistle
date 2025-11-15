@@ -5,9 +5,9 @@
   j o u r '  v d c g p
 ? i a e n x  y h t s l q
   Я . , @ z  k m w f b
-          *  ␣ *
+          \  ␣ /
 
-Я = r | @ = Repeat | * = Magic
+Я = r | @ = Repeat | \ = Left Magic | / = Right Magic
 ```
 Thistle is a high inroll layout that uses repeat, magic, and two R keys to achieve low SFBs, scissors, and outrolls.
 
