@@ -142,7 +142,7 @@ The outputs are strictly 1:1 to retain the feel of normal typing and ensure that
 
 In general, the thumbs will output the key above or below the previous key to avoid SFBs. E.g. `E\` → `EU`. `U\` → `UE`. Depending on the word though, it'll fix outrolls, redirects or SFSs.
 
-The alphas do more of the same but also help to increase same row rolls and decrease movement. E.g. "cranky" would be typed as `cdandn` and "programming" would be `pdogdanhing`.
+The alphas do more of the same but also help to increase same row rolls and decrease movement. E.g. "cranky" would be typed as `cdandn` and "programming" would be `pdogdanhing`. There are tons of word-specific rules but they've been left out since it would be impractical to list them all.
 
 <details>
   <summary><h2>Rules</h2></summary>
