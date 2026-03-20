@@ -47,16 +47,16 @@ Without repeat or magic
 ### *<ins>Left Half*
 The home keys are arranged for inrolls, with `L` specifically taking a spot to minimize scissors. `VYK` makes up the inner index column to keep lateral stretches low, while `Q` on this side avoids the long one-handed rolls that would come from placing it on the other. It also causes less SFSs.
 
-The top and bottom rows were set up around the idea that `C`, `G`, `P`, `W`, `F`, and `B` each have a couple consonants that they commonly pair with, and that magic keys on the index can turn those bigrams into inrolls.
+The top and bottom rows were set up around the idea that `P`, `G`, `C`, `B`, `F`, and `W` each have a couple consonants that they commonly pair with, and that magic keys on the index can turn those bigrams into inrolls.
 
 For example, `CD` outputs `CR`. In the word "crane", four of its five letters are typed with just one hand. If magic is used, that can be lowered to three, thus shortening the roll, keeping your left hand on home row, and improving comfort.
 
 |   Input   | Magic | Output |
 |   :---:   | :---: | :---:  |
-|  C G P    |   D   |   R    |
-| C G P F B |   M   |   L    |
+|  P G C    |   D   |   R    |
+| P G C B F |   M   |   L    |
 |   W       |   M   |   H    |
-|  F B      |   H   |   R    |
+|  B F      |   H   |   R    |
 
 ### *<ins>Right Half*
 The `I, OA, UE` vowel block is used for its low redirects and pinky use. `N` and `R` serve to maximize rolling, while `J` and a second `R` key boost inrolls. `'XZ` fill the inner index column to keep lateral stretches low, with punctuation and repeat taking the remaining spots.
