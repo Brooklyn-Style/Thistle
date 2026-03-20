@@ -2,9 +2,9 @@
 <img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/mirrored.jpg" width="75%">
 
 ```
-  j o u r '  v d c g p
-? i a e n x  y h t s l q
-  Я . , @ z  k m w f b
+  p g c d v  ' r u o j
+q l s t h y  x n e a i ?
+  b f w m k  z @ , . Я
           \  ␣ /
 
 Я = r | @ = Repeat | \ = Left Magic | / = Right Magic
