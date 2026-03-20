@@ -59,7 +59,7 @@ For example, `CD` outputs `CR`. In the word "crane", four of its five letters ar
 |  B F      |   H   |   R    |
 
 ### *<ins>Right Half*
-The `I, OA, UE` vowel block is used for its low redirects and pinky use. `N` and `R` serve to maximize rolling, while `J` and a second `R` key boost inrolls. `'XZ` fill the inner index column to keep lateral stretches low, with punctuation and repeat taking the remaining spots.
+The `EU, AO, I` vowel block is used for its low redirects and pinky use. `N` and `R` serve to maximize rolling, while `J` and a second `R` key boost inrolls. `'XZ` fill the inner index column to keep lateral stretches low, with punctuation and repeat taking the remaining spots.
 
 `Repeat` is basically just another magic key, as it does more than simply repeat the previous letter. Here are the general rules:
 
