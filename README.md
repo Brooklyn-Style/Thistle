@@ -29,11 +29,11 @@ Without repeat or magic
 
 [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):
 
-<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/playground.jpg" width="70%">
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/stats 2.jpg" width="70%">
 
 [Cyanophage](https://cyanophage.github.io/playground.html?layout=jour%27vdcgp-iaenxyhtslq%24.%2C%3Bzkmwfb%5C%5E%2F&mode=ergo&lan=english&thumb=l "View on Cyanophage"):
 
-<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/cyanophage.jpg" width="80%">
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/stats.jpg" width="80%">
 
 [KeySolve](https://luminespire.github.io/keysolve-web/ "Keysolve"):
 
