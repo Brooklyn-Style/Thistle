@@ -1,5 +1,5 @@
 # Thistle
-<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/mirrored.jpg" width="75%">
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/final.png" width="75%">
 
 ```
   p g c d v  ' r u o j
