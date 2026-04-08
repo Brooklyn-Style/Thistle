@@ -8,7 +8,7 @@ q l s t h y  x n e a i ?
           \  ␣ /
 
 \ = Left Magic | / = Right Magic
-@ = Repeat | * = Pinky Magic
+@ = Repeat     | * = Pinky Magic
 ```
 Thistle is a high inroll layout that uses repeat, magic, two R keys and two N keys to achieve low SFBs, scissors, and outrolls.
 
