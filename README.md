@@ -5,11 +5,11 @@
   p g c d v  ' r u o j
 q l s t h y  x n e a i ?
   b f w m k  z @ , . n
-          \  ␣ /
+          ⇧  ␣ /
 
-\ = Left Magic | / = Right Magic | @ = Repeat
+⇧ = R/Magic on Tap, Shift on Hold | / = Right Magic | @ = Repeat
 ```
-Thistle is a high inroll layout that uses repeat, magic, and two R keys to achieve low SFBs, scissors, and outrolls.
+Thistle is a high inroll layout that uses repeat, magic, two R keys and two N keys to achieve low SFBs, scissors, and outrolls.
 
 You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+o+u+r+%27++v+d+c+g+p&l1r1=i+a+e+n+x++y+h+t+s+l+q&l1r2=r+.+%2C+%3B+z++k+m+w+f+b&z=z). Select your layout (or input your own), then scroll down and click "convert words", then "type words".
 
