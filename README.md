@@ -7,12 +7,16 @@ q l s t h y  x n e a i ?
   b f w m k  z @ , . *
           \  ␣ /
 
-\ = Left Magic | / = Right Magic
-@ = Repeat     | * = Pinky Magic
+\ = Left Magic | r/magic on tap • shift on hold
+/ = Right Magic
+@ = Repeat
+* = Pinky Magic | n at the start of a word • magic otherwise
 ```
 Thistle is a high inroll layout that uses repeat, magic, two R keys and two N keys to achieve low SFBs, scissors, and outrolls.
 
-You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+o+u+r+%27++v+d+c+g+p&l1r1=i+a+e+n+x++y+h+t+s+l+q&l1r2=r+.+%2C+%3B+z++k+m+w+f+b&z=z). Select your layout (or input your own), then scroll down and click "convert words", then "type words".
+Thistle is a high inroll layout that uses repeat, magic, two R keys, and two N keys. It has essentially no SFBs and extremely low SFSs, scissors, and outrolls.
+
+You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=p+g+c+d+v++%27+r+u+o+j&l1r1=l+s+t+h+y++x+n+e+a+i+%3F&l1r2=b+f+w+m+k++z+%40+%2C+.&z=z). Select your layout (or input your own), then scroll down and click "convert words", then "type words".
 
 ## Table of Contents
 - [Glossary](glossary.md)
