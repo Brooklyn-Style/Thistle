@@ -7,10 +7,10 @@ q l s t h y  x n e a i ?
   b f w m k  z @ , . *
           \  ␣ /
 
-\ = Left Magic | r/magic on tap • shift on hold
+\ = Left Magic
 / = Right Magic
 @ = Repeat
-* = Pinky Magic | n at the start of a word • magic otherwise
+* = Pinky Magic
 ```
 Thistle is a magic heavy, high inroll layout. It has practically zero SFBs and extremely low SFSs, scissors, and outrolls.
 
@@ -70,10 +70,8 @@ At the start of a word:
 
 | Input | Output |
 | :---: |  :---: |
-|   I   |   '    |
-|   A   |   R    |
 |   E   |   A    |
-|   Я   |   I    |
+|   *   |   I    |
 |   ₡   |   Y    |
 
 `₡` = any consonant
