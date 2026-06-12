@@ -5,6 +5,7 @@
 </p>
 
 <div align="center">
+<h3>
 <pre>
 p g c d v  ' ^ u o j
 q l s t h y  x n e a i ?
@@ -13,6 +14,7 @@ b f w m k  z # , . *
 <br>
 \ ^ # * / = Magic Keys
 </pre>
+</h3>
 </div>
 
 Thistle is a high inroll layout that uses magic to achieve extremely low SFBs, SFSs, scissors, and outrolls. It was made by hand with magic and alt-fingering in mind and as such, uses columns that normally wouldn't be viable. Thumb keys are recommended but not strictly necessary.
