@@ -1,14 +1,20 @@
-# Thistle
-<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="75%">
+<h1 align="center">Thistle</h1>
 
-```
-  p g c d v  ' ^ u o j
+<p align="center">
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="75%">
+</p>
+
+<div align="center">
+  
+```text
+p g c d v  ' ^ u o j
 q l s t h y  x n e a i ?
-  b f w m k  z # , . *
-          \  ␣ /
+b f w m k  z # , . *
+  \  ␣ /
 
 \ ^ # * / = Magic Keys
 ```
+</div>
 
 Thistle is a high inroll layout that uses magic to achieve extremely low SFBs, SFSs, scissors, and outrolls. It was made by hand with magic and alt-fingering in mind and as such, uses columns that normally wouldn't be viable. Thumb keys are recommended but not strictly necessary.
 
