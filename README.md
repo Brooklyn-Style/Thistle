@@ -11,8 +11,7 @@ p g c d v  ' ^ u o j
 q l s t h y  x n e a i ?
 b f w m k  z # , . *
   \  ␣ /
-<br>
-\ ^ # * / = Magic Keys
+<br> \ ^ # * / = Magic Keys
 </pre>
 </h3>
 </div>
