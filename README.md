@@ -6,13 +6,15 @@
 
 <div align="center">
 <h3>
-<pre>
-p g c d v  ' ^ u o j
-q l s t h y  x n e a i ?
-b f w m k  z # , . *
-  \  ␣ /
-<br> \ ^ # * / = Magic Keys
-</pre>
+  
+```
+  p g c d v  ' ^ u o j
+  q l s t h y  x n e a i ?
+  b f w m k  z # , . *
+    \  ␣ /
+
+\ ^ # * / = Magic Keys
+```
 </h3>
 </div>
 
