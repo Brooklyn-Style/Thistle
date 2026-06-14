@@ -6,12 +6,12 @@
 <h3>
   
 ```
-                                           p g c d v  ' ^ u o j
-                                         q l s t h y  x n e a i ?
-                                           b f w m k  z # , . *
-                                                   \  ␣ /
+                                          p g c d v  ' ^ u o j
+                                        q l s t h y  x n e a i ?
+                                          b f w m k  z # , . *
+                                                  \  ␣ /
 
-                                           \ ^ # * / = Magic Keys
+                                          \ ^ # * / = Magic Keys
 ```
 </h3>
 
