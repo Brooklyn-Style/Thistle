@@ -6,6 +6,7 @@
 
 <div align="center">
 <h3>
+</pre>
   
 ```
   p g c d v  ' ^ u o j
@@ -15,6 +16,7 @@
 
 \ ^ # * / = Magic Keys
 ```
+</pre>
 </h3>
 </div>
 
