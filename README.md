@@ -1,7 +1,7 @@
 <h1 align="center">Thistle</h1>
 
 <p align="center">
-<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="75%">
+<img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="60%">
 </p>
 
 ```
