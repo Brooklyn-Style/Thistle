@@ -3,21 +3,23 @@
 <p align="center">
 <img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="75%">
 </p>
+
 <h3>
   
 ```
-  p g c d v  ' ^ u o j
-q l s t h y  x n e a i ?
-  b f w m k  z # , . *
+  p g c d v  z ' u o j
+q l s t h y  ^ n e a i ?
+  b f w m k  x # , . *
           \  ␣ /
 
 \ ^ # * / = Magic Keys
+
 ```
 </h3>
 
 Thistle is a high inroll layout that uses magic to achieve extremely low SFBs, SFSs, scissors, and outrolls. It was made by hand with magic and alt-fingering in mind and as such, uses columns that normally wouldn't be viable. Thumb keys are recommended but not strictly necessary.
 
-Note: "Magic" is used as a catch-all term for context-dependent outputs.
+Note: "Magic" is used as a catch-all term for any context-dependent output.
 
 You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=p+g+c+d+v++%27+%5E+u+o+j&l1r1=l+s+t+h+y++x+n+e+a+i+%3F&l1r2=b+f+w+m+k++z+r+%2C+.&z=z) (without magic). Select your layout (or input your own), then scroll down and click "convert words", then "type words".
 
@@ -26,10 +28,10 @@ You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t+
 - [Stats](#stats)
 - [Design](#design)
   - [Left Half](#left-half)
-  - [Combos](#combos)
+    - [Combos](#combos)
   - [Right Half](#right-half)
-- [Magic](#magic)
-  - [Rules](#rules) 
+  - [Magic](#magic)
+    - [Rules](#rules) 
 - [Tools Used](#tools-used)
 
 ---
@@ -56,7 +58,7 @@ Without repeat or magic
 
 ## Design
 
-### <ins>*Left Half*
+### *<ins>Left Half*
 - The `LSTH` home keys setup promotes inrolls. 
   - `L` on the pinky minimizes scissors, as it pairs with every letter.
   - `H` on the index makes for a good magic key due to its location and low amount of conflicts.
@@ -65,70 +67,80 @@ Without repeat or magic
 - `D` on the top index allows for easy alt-fingering of `M`, `V`, `Y`, or `K` before or after it.
 - `M` on the bottom index makes for a good second magic key for the same reasons as `H`.
 - `Q` on this side avoids the long one-handed rolls that would come from placing it on the other. It outputs `QU` instead of just `Q` since it's almost always followed by `U`.
+- `\ Magic` outputs `R` by default and is used to avoid SFBs, SFSs, and redirects.
 
-### <ins>*Combos*
+#### Combos
 - `L` + `\ Magic` = `N`
 - `S` + `\ Magic` = `J`
 - `T` + `\ Magic` = `Z`
 - `G` + `C` = `QU`
 
-### <ins>*Right Half*
-- The `EU, AO, I` vowel block is used for its low redirects and pinky use.
+### *<ins>Right Half*
+- The `EU, AO, I` vowel block is used for the `OU` inroll and low pinky use.
+- `'` on the top index makes `OU'` a 3roll and keeps this position's usage relatively low.
 - `N` and `# Magic` maximize rolling.
-- `J` and `* Magic` boost inrolls.
-- `'`, `X`, and `Z` on the inner index column keep lateral stretches low.
-- Punctuation takes the remaining spots.
+  - `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words for plurals. Placing it on the bottom row avoids scissors.
+- `J` and `* Magic` on the pinky boost inrolls.
+  - `* Magic` outputs `N` by default and `E` after consonants.
+- `^ Magic` outputs a one-shot `shift` by default, `M` after vowels, `Y` at the end of words, and reduces movement otherwise.
+- `X` and `Z` on the inner index column keep lateral stretches low.
+- `,` and `.` maintain their QWERTY locations, with `?` being moved to the outer pinky column to make room for `* Magic`.
 - `Space` on this side *feels* better for hand balance even though it results in a 40-60 split.
+- `/ Magic` outputs `escape` by default and is used as a last resort to deal with SFBs, SFSs, and outrolls, as it creates SFSs with `space`. 
 
-## Magic
-- The outputs are almost always 1:1 to retain the feel of normal typing. The only exception is when dealing with `Q`; `QU` will be typed instead for simplicity. Macros
+### *<ins>Magic*
+- The outputs are almost always 1:1 to retain the feel of normal typing. The only exception is when dealing with `Q`; `QU` will be typed instead for simplicity.
 - The outputs are context dependent. E.g., `te#` → `tea`, while `afte#` → `after`
 - Multiple magic keys can be chained together for greater usability. E.g., "earthquake" would be typed as `e#lth\ahe`.
 - Most of the consonants have magic functions to increase same row rolls and decrease movement. E.g., "function" would be typed as `funwmio\` and "probably" would be `p\o^/h\j`. 
 - There are tons of word-specific rules in the AutoHotkey script so only the general ones are listed below.
 
-### <ins>*Rules*
+<details>
+  <summary><h2>Rules</h2></summary> 
 
-- `\ Magic` outputs `R` by default and generally helps to avoid SFBs, SFSs, and awkward patterns.
-- `^ Magic` acts as a one-shot `shift` key by default, sends `M` after `A`, `E`, and `I`, and otherwise reduces SFBs and movement.
-- `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words for plurals.
+- `\ Magic` outputs `R` by default.
+- `^ Magic` outputs `shift` by default and `M` after vowels.
+- `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words.
 - `* Magic` outputs `N` by default and `E` after consonants.
-- `/ Magic` is used as a last resort to deal with SFBs, SFSs, and outrolls, as it creates SFSs with `space`.  
+- `/ Magic` outputs `escape` by default.
 
 ```
 ┌───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┐
-│  pg → ps  │  gc → gs  │  cd → cl  │  dv → dk  │           │           │           │           │           │           │
+│  pg → ps  │  gc → gs  │  cg → cqu │  dv → dk  │           │           │           │           │           │           │
 │  pc → pt  │  gd → gl  │  cd → ct  │  dy → dw  │           │           │           │           │           │           │
-│  pd → pl  │  gm → gf  │  cv → cqu │  dk → dy  │           │           │           │  uh → ur  │  oh → or  │           │
-│  pm → pb  │  gy → gn  │  cm → cw  │           │           │           │           │  u\ → uh  │  o\ → oh  │           │
-│  py → pn  │  g\ → gm  │  cm → ck  │    d\     │           │           │           │  u' → um  │  o' → om  │  jn → ji  │
-│  p\ → pm  │           │           │     ↓     │           │           │           │  ux → ua  │  ox → oi  │  ₡j → ₡y  │
-│           │           │           │ [d] hmvyk │           │           │           │  u^ → ue  │  o# → or  │           │
-│ p_h → p_l │ g_h → g_s │ c_h → c_t │           │           │           │           │  u# → ur  │ _oe → _oa │           │
+│  pd → pl  │  gm → gf  │  cd → cl  │  dk → dy  │           │           │  uz → u,  │  uh → ur  │  oh → or  │           │
+│  pm → pb  │  gy → gn  │  cm → cw  │           │           │           │  ez → e,  │  u\ → uh  │  o\ → oh  │  \j → rh  │
+│  py → pn  │  g\ → gm  │  cm → ck  │    d\     │           │           │  oz → o.  │  u' → um  │  o' → om  │  jn → ji  │
+│  p\ → pm  │  g# → gs  │  cv → cqu │     ↓     │           │           │  az → a.  │  ux → ua  │  ox → oi  │  ₡j → ₡y  │
+│           │           │           │ [d] hmvyk │           │           │  jz → j?  │  u^ → ue  │  o# → or  │           │
+│ p_h → p_l │ g_h → g_s │ c_h → c_t │           │           │           │  iz → i?  │  u# → ur  │ _oe → _oa │           │
 │ p_m → p_b │ g_m → g_f │ c_m → c_w │           │           │           │           │           │           │           │
-│ p_\ → p_m │ g_\ → g_m │ c_\ → c_m │           │           │           │           │           │           │           │
+│ p_y → p_m │ g_y → g_m │ c_y → c_m │           │           │           │           │           │           │           │
+│ p_\ → p_y │ g_\ → g_y │ c_\ → c_y │           │           │           │           │           │           │           │
 ├───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┤
-│  lh → lp  │  sl → squ │  tm → tw  │           │           │           │           │  eb → ex  │           │           │
-│  lm → lb  │  sd → sp  │  t\ → tc  │           │           │           │           │  eh → er  │  ah → ar  │           │
-│  l\ → lm  │  sh → sg  │  tn → tc  │  ¶h → ¶"  │           │           │           │  e\ → eh  │  a\ → ah  │  ih → ir  │
-│  l\ → lq  │  sm → sf  │           │           │           │           │  nh → nx  │ _ez → _ei │  ax → ao  │  i\ → ih  │
-│           │  sy → sn  │           │    h\     │  ₡y → ₡@  │  ₡x → ₡y  │  nm → nz  │  ez → er  │  a^ → am  │  ix → i'  │
-│           │  s\ → sl  │           │     ↓     │           │           │  ₡n → ₡y  │  e^ → em  │  a# → ar  │  ix → ij  │
-│           │           │           │ [h] dmvy  │           │           │           │  e^ → eu  │  a# → ao  │  i^ → im  │
+│  lh → lp  │  sl → squ │  th → tw  │           │           │           │           │  eb → ex  │           │           │
+│  lm → lb  │  sd → sp  │ _tm → _tw │           │           │           │           │  eh → er  │  ah → ar  │           │
+│  l\ → lm  │  sh → sg  │  tm → tt  │  ¶h → ¶"  │           │           │           │  e\ → eh  │  a\ → ah  │  ih → ir  │
+│  l\ → lq  │  sm → sf  │  t\ → tc  │           │           │           │  nh → nx  │  e^ → em  │  a^ → am  │  i\ → ih  │
+│           │  sy → sn  │  tn → tc  │    h\     │  ₡y → ₡@  │  ₡^ → ₡y  │  nm → nz  │  ex → er  │  ax → ao  │  i^ → im  │
+│           │  s\ → sl  │           │     ↓     │           │           │  ₡n → ₡y  │ _ez → _ei │  a# → ar  │  ix → i'  │
+│           │           │           │ [h] dmvy  │           │           │           │  ez → eu  │  a# → ao  │  ix → ij  │
 │ l_h → l_p │ s_h → s_g │ t_h → t_c │           │           │           │           │  e# → ea  │  ae → ai  │  i# → ir  │
 │ l_m → l_b │ s_m → s_f │ t_m → t_w │           │           │           │           │  e# → er  │ _a, → _ao │           │
-│ l_\ → l_m │ s_\ → s_m │ t_\ → t_m │           │           │           │           │  e/ → eu  │           │           │
+│ l_y → l_m │ s_y → s_m │ t_y → t_m │           │           │           │           │  e/ → eu  │           │           │
+│ l_y → l_y │ s_\ → s_y │ t_\ → t_y │           │           │           │           │           │           │           │
 ├───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┤───────────│
 │  bh → bb  │  fw → ft  │  wh → wt  │           │           │           │           │           │           │           │
 │  bm → bl  │  fh → ff  │  wh → wk  │           │           │           │  #m → #n  │           │           │           │
-│  by → bp  │  fm → fl  │  wm → wc  │           │           │  uz → u,  │  #\ → #n  │           │           │           │
-│  b\ → bm  │  fy → fg  │  wm → wh  │           │           │  ez → e,  │  ₡# → ₡@  │           │           │           │
-│  bn → by  │  f# → fs  │           │    m\     │  kj → kn  │  oz → o.  │  ₡# → ₡s  │ _*u → _nu │ _*. → _no │  _* → _n  │
-│           │           │           │     ↓     │           │  az → a.  │ ₡,# → ₡ui │  ₡, → ₡u  │ ₡*. → ₡eo │  ₡* → ₡e  │
-│           │           │           │  [m] hvy  │           │  jz → j?  │₡.e# → ₡oar│₡*., → ₡eou│  ₡. → ₡o  │           │
-│ b_h → b_l │ f_h → f_s │ w_h → w_t │           │           │  iz → i?  │₡.,# → ₡oin│ ₡*, → ₡ei │ ₡.e → ₡oa │           │
-│ b_m → b_p │ f_m → f_g │ w_m → w_c │           │           │           │ _*# → _ni │ ₡., → ₡oi │           │           │
-│ b_\ → b_m │ f_\ → f_m │ w_\ → w_m │           │           │           │           │           │           │           │
+│  by → bp  │  fm → fl  │  wm → wc  │           │           │           │  #\ → #n  │           │           │           │
+│  b\ → bm  │  fy → fg  │  wm → wh  │           │           │           │  ₡# → ₡@  │ _*u → _nu │ _*. → _no │           │
+│  bn → by  │  f# → fs  │           │    m\     │  kj → kn  │           │  ₡# → ₡s  │  ₡, → ₡u  │ ₡*. → ₡eo │  _* → _n  │
+│           │           │           │     ↓     │           │           │ ₡,# → ₡ui │₡*., → ₡eou│  ₡. → ₡o  │  ₡* → ₡e  │
+│           │           │           │  [m] hvy  │           │           │₡.e# → ₡oar│ ₡*, → ₡ei │ ₡.e → ₡oa │           │
+│ b_h → b_p │ f_h → f_g │ w_h → w_c │           │           │           │₡.,# → ₡oin│ ₡., → ₡oi │           │           │
+│ b_m → b_l │ f_m → f_s │ w_m → w_t │           │           │           │ _*# → _ni │           │           │           │
+│ b_y → b_m │ f_y → f_m │ w_y → w_m │           │           │           │ ₡*# → ₡ex │           │           │           │
+│ b_y → b_y │ f_\ → f_y │ w_\ → w_y │           │           │           │           │           │           │           │
 └───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┘
                                      p g c d v  ' ^ u o j     @ = Repeat
                                    q l s t h y  x n e a i ?   ₡ = Any Consonant
@@ -196,7 +208,7 @@ q l s t h y  x n e a i ?   ~ ~ ~ ~ ~ ~  ~ ~ ~ ~ ~ ~
 
 ---
 
-### *<ins>Tools Used*
+## Tools Used
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - [Cyanophage's](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
