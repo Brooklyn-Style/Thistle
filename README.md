@@ -104,38 +104,38 @@ Without repeat or magic
 ┌───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┬───────────┐
 │  pg → ps  │  gc → gs  │  cg → cqu │  dv → dk  │           │           │           │           │           │           │
 │  pc → pt  │  gd → gl  │  cd → ct  │  dy → dw  │           │           │           │           │           │           │
-│  pd → pl  │  gm → gf  │  cd → cl  │  dk → dy  │           │           │  uz → u,  │  uh → ur  │  oh → or  │           │
-│  pm → pb  │  gy → gn  │  cm → cw  │           │           │           │  ez → e,  │  u\ → uh  │  o\ → oh  │  \j → rh  │
-│  py → pn  │  g\ → gm  │  cm → ck  │    d\     │           │           │  oz → o.  │  u' → um  │  o' → om  │  jn → ji  │
-│  p\ → pm  │  g# → gs  │  cv → cqu │     ↓     │           │           │  az → a.  │  ux → ua  │  ox → oi  │  ₡j → ₡y  │
-│           │           │           │ [d] hmvyk │           │           │  jz → j?  │  u^ → ue  │  o# → or  │           │
-│ p_h → p_l │ g_h → g_s │ c_h → c_t │           │           │           │  iz → i?  │  u# → ur  │ _oe → _oa │           │
+│  pd → pl  │  gm → gf  │  cd → cl  │  dk → dy  │           │  uz → u,  │           │  uh → ur  │  oh → or  │           │
+│  pm → pb  │  gy → gn  │  cm → cw  │           │           │  ez → e,  │           │  u\ → uh  │  o\ → oh  │  \j → rh  │
+│  py → pn  │  g\ → gm  │  cm → ck  │    d\     │           │  oz → o.  │  ¶' → ¶"  │  u' → um  │  o' → om  │  jn → ji  │
+│  p\ → pm  │  g# → gs  │  cv → cqu │     ↓     │           │  az → a.  │           │  ux → ua  │  ox → oi  │  ₡j → ₡y  │
+│           │           │           │ [d] hmvyk │           │  jz → j?  │           │  u^ → ue  │  o# → or  │           │
+│ p_h → p_l │ g_h → g_s │ c_h → c_t │           │           │  iz → i?  │           │  u# → ur  │ _oe → _oa │           │
 │ p_m → p_b │ g_m → g_f │ c_m → c_w │           │           │           │           │           │           │           │
 │ p_y → p_m │ g_y → g_m │ c_y → c_m │           │           │           │           │           │           │           │
 │ p_\ → p_y │ g_\ → g_y │ c_\ → c_y │           │           │           │           │           │           │           │
 ├───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┤
 │  lh → lp  │  sl → squ │  th → tw  │           │           │           │           │  eb → ex  │           │           │
 │  lm → lb  │  sd → sp  │ _tm → _tw │           │           │           │           │  eh → er  │  ah → ar  │           │
-│  l\ → lm  │  sh → sg  │  tm → tt  │  ¶h → ¶"  │           │           │           │  e\ → eh  │  a\ → ah  │  ih → ir  │
+│  l\ → lm  │  sh → sg  │  tm → tt  │  ¶h → ¶@  │           │           │           │  e\ → eh  │  a\ → ah  │  ih → ir  │
 │  l\ → lq  │  sm → sf  │  t\ → tc  │           │           │           │  nh → nx  │  e^ → em  │  a^ → am  │  i\ → ih  │
 │           │  sy → sn  │  tn → tc  │    h\     │  ₡y → ₡@  │  ₡^ → ₡y  │  nm → nz  │  ex → er  │  ax → ao  │  i^ → im  │
-│           │  s\ → sl  │           │     ↓     │           │           │  ₡n → ₡y  │ _ez → _ei │  a# → ar  │  ix → i'  │
-│           │           │           │ [h] dmvy  │           │           │           │  ez → eu  │  a# → ao  │  ix → ij  │
+│           │  s\ → sl  │           │     ↓     │           │           │  ₡n → ₡y  │  ez → eu  │  a# → ar  │  ix → i'  │
+│           │           │           │ [h] dmvy  │           │           │           │ _e' → _ei │  a# → ao  │  ix → ij  │
 │ l_h → l_p │ s_h → s_g │ t_h → t_c │           │           │           │           │  e# → ea  │  ae → ai  │  i# → ir  │
-│ l_m → l_b │ s_m → s_f │ t_m → t_w │           │           │           │           │  e# → er  │ _a, → _ao │           │
+│ l_m → l_b │ s_m → s_f │ t_m → t_w │           │           │           │           │  e# → er  │  a' → _ao │           │
 │ l_y → l_m │ s_y → s_m │ t_y → t_m │           │           │           │           │  e/ → eu  │           │           │
 │ l_y → l_y │ s_\ → s_y │ t_\ → t_y │           │           │           │           │           │           │           │
 ├───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┼───────────┤───────────│
 │  bh → bb  │  fw → ft  │  wh → wt  │           │           │           │           │           │           │           │
-│  bm → bl  │  fh → ff  │  wh → wk  │           │           │           │  #m → #n  │           │           │           │
-│  by → bp  │  fm → fl  │  wm → wc  │           │           │           │  #\ → #n  │           │           │           │
-│  b\ → bm  │  fy → fg  │  wm → wh  │           │           │           │  ₡# → ₡@  │ _*u → _nu │ _*. → _no │           │
-│  bn → by  │  f# → fs  │           │    m\     │  kj → kn  │           │  ₡# → ₡s  │  ₡, → ₡u  │ ₡*. → ₡eo │  _* → _n  │
-│           │           │           │     ↓     │           │           │ ₡,# → ₡ui │₡*., → ₡eou│  ₡. → ₡o  │  ₡* → ₡e  │
-│           │           │           │  [m] hvy  │           │           │₡.e# → ₡oar│ ₡*, → ₡ei │ ₡.e → ₡oa │           │
-│ b_h → b_p │ f_h → f_g │ w_h → w_c │           │           │           │₡.,# → ₡oin│ ₡., → ₡oi │           │           │
-│ b_m → b_l │ f_m → f_s │ w_m → w_t │           │           │           │ _*# → _ni │           │           │           │
-│ b_y → b_m │ f_y → f_m │ w_y → w_m │           │           │           │ ₡*# → ₡ex │           │           │           │
+│  bm → bl  │  fh → ff  │  wh → wk  │  #m → #n  │           │           │  #\ → #n  │           │           │           │
+│  by → bp  │  fm → fl  │  wm → wc  │           │           │           │  ₡# → ₡@  │           │           │           │
+│  b\ → bm  │  fy → fg  │  wm → wh  │           │           │           │  ₡# → ₡s  │ _*u → _nu │ _*. → _no │           │
+│  bn → by  │  f# → fs  │           │    m\     │  kj → kn  │           │ ₡,# → ₡ui │  ₡, → ₡u  │ ₡*. → ₡eo │  _* → _n  │
+│           │           │           │     ↓     │           │           │₡.e# → ₡oar│₡*., → ₡eou│  ₡. → ₡o  │  ₡* → ₡e  │
+│           │           │           │  [m] hvy  │           │           │₡.,# → ₡oin│ ₡*, → ₡ei │ ₡.e → ₡oa │           │
+│ b_h → b_p │ f_h → f_g │ w_h → w_c │           │           │           │ _*# → _ni │ ₡., → ₡oi │           │           │
+│ b_m → b_l │ f_m → f_s │ w_m → w_t │           │           │           │ ₡*# → ₡ex │           │           │           │
+│ b_y → b_m │ f_y → f_m │ w_y → w_m │           │           │           │  ¶' → ¶"  │           │           │           │
 │ b_y → b_y │ f_\ → f_y │ w_\ → w_y │           │           │           │           │           │           │           │
 └───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┴───────────┘
                                      p g c d v  z ' u o j     @ = Repeat
