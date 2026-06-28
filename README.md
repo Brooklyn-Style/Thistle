@@ -91,8 +91,7 @@ Without repeat or magic
 - Most of the consonants have magic functions to increase same row rolls and decrease movement. E.g., "function" would be typed as `funwmio\` and "probably" would be `p\o^/h\j`. 
 - There are tons of word-specific rules in the AutoHotkey script so only the general ones are listed below.
 
-<details>
-  <summary><h2>Rules</h2></summary> 
+### Rules
 
 - `\ Magic` outputs `R` by default.
 - `^ Magic` outputs `shift` by default and `M` after vowels `Y` at the end of words.
