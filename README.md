@@ -95,7 +95,7 @@ Without repeat or magic
   <summary><h2>Rules</h2></summary> 
 
 - `\ Magic` outputs `R` by default.
-- `^ Magic` outputs `shift` by default and `M` after vowels.
+- `^ Magic` outputs `shift` by default and `M` after vowels `Y` at the end of words.
 - `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words.
 - `* Magic` outputs `N` by default and `E` after consonants.
 - `/ Magic` outputs `escape` by default.
