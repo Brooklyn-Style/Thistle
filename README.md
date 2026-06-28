@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/Brooklyn-Style/Thistle/blob/main/images/heatmap.png" width="60%">
 </p>
-
+  
 ```
   p g c d v  z ' u o j
 q l s t h y  ^ n e a i ?
@@ -11,6 +11,7 @@ q l s t h y  ^ n e a i ?
           \  ␣ /
 
 \ ^ # * / = Magic Keys
+
 ```
 
 Thistle is a high inroll layout that uses magic to achieve extremely low SFBs, SFSs, scissors, and outrolls. It was made by hand with magic and alt-fingering in mind and as such, uses columns that normally wouldn't be viable. Thumb keys are recommended but not strictly necessary.
@@ -27,7 +28,7 @@ You can try it [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t+
     - [Combos](#combos)
   - [Right Half](#right-half)
   - [Magic](#magic)
-    - [Rules](#rules) 
+    - [Rules](#rules)
 - [Tools Used](#tools-used)
 
 ---
@@ -55,10 +56,10 @@ Without repeat or magic
 ## Design
 
 ### *<ins>Left Half*
-- The `LSTH` home keys setup promotes inrolls. 
+- The `LSTH` home keys setup promotes inrolls.
   - `L` on the pinky minimizes scissors, as it pairs with every letter.
   - `H` on the index makes for a good magic key due to its location and low amount of conflicts.
-- `P`, `G`, `C`, `B`, `F`, and `W` on non-index fingers ensure that their common bigrams are inrolls, either by default or with magic. E.g., `CD` outputs `CL`.
+- `P`, `G`, `C`, `B`, `F`, and `W` on non-index fingers ensure that their common bigrams are inrolls, either by default or with magic. E.g. `CD` outputs `CL`.
 - `V`, `Y`, and `K` on the inner index column keep lateral stretches low.
 - `D` on the top index allows for easy alt-fingering of `M`, `V`, `Y`, or `K` before or after it.
 - `M` on the bottom index makes for a good second magic key for the same reasons as `H`.
@@ -80,18 +81,21 @@ Without repeat or magic
   - `* Magic` outputs `N` by default and `E` after consonants.
 - `^ Magic` outputs a one-shot `shift` by default, `M` after vowels, `Y` at the end of words, and reduces movement otherwise.
 - `X` and `Z` on the inner index column keep lateral stretches low.
-- `,` and `.` maintain their QWERTY locations, with `?` being moved to the outer pinky column to make room for `* Magic`.
+- `,` and `.` coincidentally retain their QWERTY locations.
+- `?` outputs `/` when shifted.
 - `Space` on this side *feels* better for hand balance even though it results in a 40-60 split.
-- `/ Magic` outputs `escape` by default and is used as a last resort to deal with SFBs, SFSs, and outrolls, as it creates SFSs with `space`. 
+- `/ Magic` outputs `escape` by default and is used as a last resort to deal with SFBs, SFSs, and outrolls, as it creates SFSs with `space`.
 
 ### *<ins>Magic*
-- The outputs are almost always 1:1 to retain the feel of normal typing. The only exception is when dealing with `Q`; `QU` will be typed instead for simplicity.
-- The outputs are context dependent. E.g., `te#` → `tea`, while `afte#` → `after`
-- Multiple magic keys can be chained together for greater usability. E.g., "earthquake" would be typed as `e#lth\ahe`.
-- Most of the consonants have magic functions to increase same row rolls and decrease movement. E.g., "function" would be typed as `funwmio\` and "probably" would be `p\o^/h\j`. 
-- There are tons of word-specific rules in the AutoHotkey script so only the general ones are listed below.
+- The outputs are almost always 1:1 to retain the feel of normal typing. The only exception is for `Q`, where `QU` will be sent instead for simplicity.
+- The outputs are context dependent. E.g. `te#` → `tea`, while `afte#` → `after`
+- Multiple magic keys can be chained together for greater usability. E.g. "earthquake" would be typed as `e#lth\ahe`.
+- Most of the consonants have magic functions to increase same row rolls and decrease movement. E.g. "function" would be typed as `funwmio\` and "probably" would be `p\o^/h\j`.
 
 ### Rules
+
+There are tons of word-specific rules so only the general ones are listed below.
+
 - `\ Magic` outputs `R` by default.
 - `^ Magic` outputs `shift` by default, `M` after vowels, and `Y` at the end of words.
 - `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words.
@@ -139,7 +143,7 @@ Without repeat or magic
                                      p g c d v  z ' u o j     @ = Repeat
                                    q l s t h y  ^ n e a i ?   ₡ = Any Consonant
                                      b f w m k  x # , . *     ¶ = Any Punctuation Mark
-                                             \  ␣ /           
+                                             \  ␣ /
 ```
 </details>
 
