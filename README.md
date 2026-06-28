@@ -92,7 +92,6 @@ Without repeat or magic
 - There are tons of word-specific rules in the AutoHotkey script so only the general ones are listed below.
 
 ### Rules
-
 - `\ Magic` outputs `R` by default.
 - `^ Magic` outputs `shift` by default and `M` after vowels `Y` at the end of words.
 - `# Magic` outputs `backspace` by default, `R` after vowels, `repeat` after consonants, and `S` at the end of words.
